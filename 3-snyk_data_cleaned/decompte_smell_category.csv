@@ -1,0 +1,6 @@
+smell_category,Nombre
+Insecure Configuration Management,123
+Insecure Input Handling,72
+Sensitive Information Exposure,68
+Path Traversal,12
+Code Injection,9
