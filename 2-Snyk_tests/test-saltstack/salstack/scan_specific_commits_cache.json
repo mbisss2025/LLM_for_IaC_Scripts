@@ -1,0 +1,287 @@
+{
+  "./android_kernel_motorola_sm8475": {
+    "25b8343bd4a1ad575a72d2431edf18c974544daa": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/android_kernel_motorola_sm8475/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./PKGBUILDS": {
+    "a76856a9d4f0c59b1cf6d54731074b3e4bd437d3": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/PKGBUILDS/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./meta-freescale": {
+    "388fd2ec200fb71fcec3c1fd7443b337cddd00d5": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/meta-freescale/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./z3": {
+    "91dc02d8628ef791b7e10c21318de49db98572d8": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/z3/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./linux": {
+    "b1beb38838f1443fbb9dbcec335927daede4c052": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/linux/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./Z3": {
+    "caef1eaeffba0b15ea027650fe9f5a8dd34ca340": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/Z3/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./aurora": {
+    "15696b08d6afb877a0d3a7e54bfd446812653e79": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/aurora/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "4030f56c741c1b525c83a6510bfe50e3ead79ec4": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/aurora/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "8b15994d39bb3561fcb6d0fcc40ad1663c81e211": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/aurora/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "9cb6c546470029bdb7413afe6ed85823e1d847e2": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/aurora/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./Kernel_Realking_xiaomi_peridot": {
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/Kernel_Realking_xiaomi_peridot/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./kernel_peridot": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/kernel_peridot/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/kernel_peridot/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./imx8mp": {
+    "388fd2ec200fb71fcec3c1fd7443b337cddd00d5": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/imx8mp/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./mlir-learn": {
+    "5f63028555f11989b78d61371cb851f56e9779f3": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/mlir-learn/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "b2654b53a0a4ff4feda86c17403f7416ecc912f4": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/mlir-learn/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./realme_GT5pro-AndroidU-kernel-source": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT5pro-AndroidU-kernel-source/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT5pro-AndroidU-kernel-source/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./realme_GT5pro-AndroidV-kernel-source": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT5pro-AndroidV-kernel-source/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT5pro-AndroidV-kernel-source/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./realme_GT6-AndroidV-kernel-source-": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT6-AndroidV-kernel-source-/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "checkout_error": "fatal: Unable to create '/home/mbissine/saltstack/realme_GT6-AndroidV-kernel-source-/.git/index.lock': Permission denied",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./realme_gt6-AndroidV-kernel-source-": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "repo_not_found_locally": true,
+      "code_scanned": false,
+      "iac_scanned": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "repo_not_found_locally": true,
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "./kernel_xiaomi_bengal_515": {
+    "8600af0e003fd72c04561110d4c03d3edd6e44a0": {
+      "checkout_error": "fatal: reference is not a tree: 8600af0e003fd72c04561110d4c03d3edd6e44a0",
+      "code_scanned": false,
+      "iac_scanned": false
+    }
+  },
+  "/home/mbissine/saltstack/android_kernel_motorola_sm8475": {
+    "25b8343bd4a1ad575a72d2431edf18c974544daa": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/PKGBUILDS": {
+    "a76856a9d4f0c59b1cf6d54731074b3e4bd437d3": {
+      "code_scanned_successfully": false,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/meta-freescale": {
+    "388fd2ec200fb71fcec3c1fd7443b337cddd00d5": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/z3": {
+    "91dc02d8628ef791b7e10c21318de49db98572d8": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/linux": {
+    "b1beb38838f1443fbb9dbcec335927daede4c052": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/Z3": {
+    "caef1eaeffba0b15ea027650fe9f5a8dd34ca340": {
+      "code_scanned_successfully": false,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/aurora": {
+    "15696b08d6afb877a0d3a7e54bfd446812653e79": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "4030f56c741c1b525c83a6510bfe50e3ead79ec4": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "8b15994d39bb3561fcb6d0fcc40ad1663c81e211": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "9cb6c546470029bdb7413afe6ed85823e1d847e2": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/Kernel_Realking_xiaomi_peridot": {
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/kernel_peridot": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/imx8mp": {
+    "388fd2ec200fb71fcec3c1fd7443b337cddd00d5": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/mlir-learn": {
+    "5f63028555f11989b78d61371cb851f56e9779f3": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "b2654b53a0a4ff4feda86c17403f7416ecc912f4": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/realme_GT5pro-AndroidU-kernel-source": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/realme_GT5pro-AndroidV-kernel-source": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/realme_GT6-AndroidV-kernel-source-": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "code_scanned_successfully": true,
+      "iac_scanned_successfully": true
+    }
+  },
+  "/home/mbissine/saltstack/realme_gt6-AndroidV-kernel-source-": {
+    "7940fcf5976605bb9f6c8a906a286ffe287a916f": {
+      "repo_not_found_locally": true,
+      "code_scanned_successfully": false,
+      "iac_scanned_successfully": false
+    },
+    "d82e9dd3f46ef3ab3657981880efadf015f65e45": {
+      "repo_not_found_locally": true,
+      "code_scanned_successfully": false,
+      "iac_scanned_successfully": false
+    }
+  }
+}
