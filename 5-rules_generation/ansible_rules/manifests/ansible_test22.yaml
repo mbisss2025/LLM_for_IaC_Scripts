@@ -1,0 +1,5 @@
+metadata:
+  name: common-golang-external-secrets-leaderelection
+  namespace: default
+  labels:
+    helm.sh/chart: external-secrets-0.9.16

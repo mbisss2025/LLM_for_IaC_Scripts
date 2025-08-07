@@ -1,0 +1,5 @@
+            logging.info(f"Starting private testing for {ami_instance_name}")
+            logging.info(f"Starts tests with server url - https://{ami_instance_ip}")
+            all_tests = get_all_tests(tests_settings)
+            execute_testing(tests_settings, ami_instance_ip, all_tests, tests_data_keeper)
+            sleep(8)

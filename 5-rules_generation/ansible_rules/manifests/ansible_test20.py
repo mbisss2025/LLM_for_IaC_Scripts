@@ -1,0 +1,5 @@
+        base_url=BASE_URL,
+        access_id=ACCESS_ID,
+        secret_key=SECRET_KEY,
+        verify=False,
+        proxies={},

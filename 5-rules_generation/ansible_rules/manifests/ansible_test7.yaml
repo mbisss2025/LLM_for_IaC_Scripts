@@ -1,0 +1,5 @@
+              mountPath: /home/vault
+          ports:
+            - containerPort: 8200
+              name: http
+            - containerPort: 8201

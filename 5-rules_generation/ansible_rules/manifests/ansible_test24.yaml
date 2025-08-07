@@ -1,0 +1,5 @@
+            runAsNonRoot: true
+          image: ghcr.io/external-secrets/external-secrets:v0.9.16-ubi
+          imagePullPolicy: IfNotPresent
+          args:
+          - certcontroller

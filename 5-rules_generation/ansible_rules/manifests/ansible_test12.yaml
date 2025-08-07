@@ -1,0 +1,5 @@
+    spec:
+      containers:
+        - name: pterodactyl
+          image: ghcr.io/pterodactyl/panel:latest
+          resources:

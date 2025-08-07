@@ -1,0 +1,5 @@
+                  subPath: values.yaml
+          containers:            
+            - name: "done"
+              image: registry.redhat.io/ansible-automation-platform-24/ee-supported-rhel9:latest
+              imagePullPolicy: Always

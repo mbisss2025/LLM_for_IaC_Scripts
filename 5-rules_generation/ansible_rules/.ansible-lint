@@ -1,0 +1,29 @@
+# Répertoires contenant les règles personnalisées
+rulesdir:
+  - custom_rules/
+
+
+# Extensions de fichiers à analyser
+kinds:
+  - yaml: "*.yaml"
+  - yaml: "*.yml" 
+  - ansible: "*.yml"
+  - ansible: "*.yaml"
+  - python: "*.py"
+  - jinja2: "*.j2"
+
+# Fichiers et répertoires à exclure
+exclude_paths:
+  - .cache/
+  - .github/
+  - .venv/
+  - venv/
+  - __pycache__/
+  - "*.pyc"
+
+
+# Niveau de verbosité (0-3)
+verbosity: 1
+
+
+
